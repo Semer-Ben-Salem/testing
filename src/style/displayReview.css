@@ -1,0 +1,21 @@
+/* whole component */
+.container {
+}
+
+/* 1st line number of reviews */
+.numRev {
+  font-weight: bold;
+}
+
+/* all anchor tag */
+a {
+  color: black;
+}
+
+/* one review */
+.review {
+}
+
+/* ratinf stars */
+.stars {
+}
